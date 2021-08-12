@@ -1,0 +1,265 @@
+#home {
+    width: 100%;
+    position: relative;
+    opacity: 1;
+}
+body * {
+    font-family: "Open Sans",-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif!important;
+}
+body * {
+    font-family: Open Sans,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif!important;
+}
+*, :after, :before {
+    -webkit-box-sizing: inherit;
+    box-sizing: inherit;
+}
+*, :after, :before {
+    -webkit-box-sizing: inherit;
+    box-sizing: inherit;
+}
+*, :after, :before {
+    -webkit-box-sizing: inherit;
+    box-sizing: inherit;
+}
+*, :after, :before {
+    -webkit-box-sizing: inherit;
+    box-sizing: inherit;
+}
+*, :after, :before {
+    -webkit-box-sizing: inherit;
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+body {
+    color: #323a44;
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+    -webkit-font-smoothing: antialiased;
+}
+body {
+    font-family: Open Sans;
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+    background: #f9f9f9;
+    cursor: default;
+    -webkit-font-smoothing: antialiased;
+    min-height: 100%;
+}
+body {
+    color: #323a44;
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+    -webkit-font-smoothing: antialiased;
+}
+body {
+    font-family: Open Sans;
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+    background: #f9f9f9;
+    cursor: default;
+    -webkit-font-smoothing: antialiased;
+    min-height: 100%;
+}
+.zoomcar-header {
+    font-family: Open Sans!important;
+    background-color: #33414f;
+    height: 64px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: 0 15px 0 25px;
+}
+.zoomcar-header .header-links {
+    -webkit-box-flex: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: end;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+.zoomcar-header .header-links .user-bar {
+    margin-left: 0;
+}
+.zoomcar-header .header-links>a, .zoomcar-header .header-links>div {
+    padding: 10px 0;
+    margin: 13px;
+}
+
+.zoomcar-header .user-bar {
+    position: relative;
+}
+.zoomcar-header .user-bar span:first-child {
+    margin-right: 13px;
+}
+
+.zoomcar-header .user-bar span {
+    cursor: pointer;
+}
+.zoomcar-header .header-links a, .zoomcar-header .header-links span {
+    color: #fff;
+    font-size: 18px;
+    text-decoration: none;
+}
+home .background {
+    height: 520px;
+    background-size: cover;
+    background-position: 50% 0;
+}
+
+body * {
+    font-family: "Open Sans",-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif!important;
+}
+#home .intro {
+    padding-top: 160px;
+    text-align: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+#home .intro .heading {
+    font-size: 44px;
+    color: #fff;
+    font-weight: 600;
+}
+#home .intro h1 {
+    font-size: 18px;
+    color: #fff;
+    margin: 0 0 30px 0;
+    font-weight: 400;
+}
+#home .intro h1 span {
+    font-weight: 600;
+    border-bottom: 1px dashed #fff;
+    cursor: pointer;
+}
+#home .intro h1 span:after {
+    position: relative;
+    top: -5px;
+    content: '';
+    height: 9px;
+    width: 9px;
+    border: 0;
+    border-right: 2px solid #fff;
+    border-bottom: 2px solid #fff;
+    -webkit-transform: rotate(
+45deg
+);
+    transform: rotate(
+45deg
+);
+    display: inline-block;
+    margin-left: 10px;
+}
+#home .intro .search-block {
+    width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+}
+#home .intro .search {
+    width: 540px;
+    height: 60px;
+    background-color: #fff;
+    border-radius: 5px;
+    line-height: 60px;
+    text-align: left;
+    text-indent: 20px;
+    font-size: 18px;
+    font-weight: 400;
+    position: relative;
+    cursor: pointer;
+    color: #323a44;
+    text-decoration: none;
+    display: block;
+}
+#home .intro .search:after {
+    position: absolute;
+    top: 22px;
+    right: 30px;
+    content: '';
+    height: 13px;
+    width: 13px;
+    border: 0;
+    border-right: 2px solid #323a44;
+    border-bottom: 2px solid #323a44;
+    -webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+    display: inline-block;
+}
+#home .zoomcar-services {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    color: #fff;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    width: 540px;
+    font-size: 18px;
+    padding-top: 15px;
+}
+.zoomcar-header .header-links>a, .zoomcar-header .header-links>div {
+    padding: 10px 0;
+    margin: 13px;
+}
+
+.zoomcar-header .app-link {
+    position: relative;
+}
+.zoomcar-header .app-link .app-stores {
+    display: none;
+    position: absolute;
+    z-index: 1000;
+    background-color: #fff;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 2px 4px 0 rgb(0 0 0 / 50%);
+    box-shadow: 0 2px 4px 0 rgb(0 0 0 / 50%);
+    font-size: 18px;
+    cursor: pointer;
+    width: 190px;
+    top: 40px;
+    left: -14px;
+}
+.zoomcar-header .header-links a, .zoomcar-header .header-links span {
+    color: #fff;
+    font-size: 18px;
+    text-decoration: none;
+}
+element.style {
+    background-image: url(/css/background.png);
+}
